@@ -9,7 +9,7 @@
 - LINKEDLN:https://www.linkedin.com/in/shashi-preetam-rasamalla-570027174
 
 ## some personal talks:  
-" I am a degree holder in the filed of chemical engineering but i was not at all interested in the core that is the reason i opted-out my self from the college placements,I always wanted to grow in the filed of analytics,I am a blessed person with good visualization skills and you will be thrilled to get to know about my hobbies,I love EDA(exploratory data analysis) maximum of my projects are EDA with different data sets which are avaialble online, if you like any of my EDA please do contact me with a entry level job/intenship offer, i'd love to accept any offer to prove my self in the domain "GIVE ME AN OPPORTUNITY I'LL CREATE WONDERS.
+" I am FRESHER' [chemical engineering] but i was not at all interested in the core that is the reason i opted-out my self from the college placements,I always wanted to grow in the filed of analytics,I am a blessed person with good visualization skills and you will be thrilled to get to know about my hobbies,I love EDA(exploratory data analysis) maximum of my projects are EDA with different data sets which are avaialble online, if you like any of my EDA please do contact me with a entry level job/intenship offer, i'd love to accept any offer to prove my self in the domain "GIVE ME AN OPPORTUNITY I'LL CREATE WONDERS.
 
 <!---
 preetamrasamalla/preetamrasamalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
